@@ -1,0 +1,102 @@
+Rubisco Public License (RPL)
+
+Preamble
+
+The Rubisco Public License (RPL) is a free and open source software license that aims
+to promote the development and distribution of scientific software for the benefit of
+the scientific community. It is inspired by the principles of the GNU General Public
+License (GPL) and the Berkeley Software Distribution (BSD) license, but tailored
+specifically to the needs of scientific software.
+
+Terms and Conditions
+
+1. Definitions
+
+Software: The computer program or collection of computer programs licensed under this RPL.
+
+Source Code: The human-readable form of the Software, including any accompanying
+documentation and configuration files.
+
+Object Code: The machine-readable form of the Software, including any libraries, executables,
+or other compiled or assembled files.
+
+2. Copyright
+
+The copyright in the Software is held by the original author(s) or copyright holder(s).
+
+3. License Grant
+
+Subject to the terms and conditions of this RPL, the copyright holder hereby grants to you a
+worldwide, royalty-free, non-exclusive, perpetual license to:
+
+Use the Software for any purpose, including commercial and non-commercial use.
+
+Modify the Software, create derivative works, and distribute the modified Software or derivative
+works.
+
+
+4. Attribution
+
+In all modifications and derivative works, you must include the following attribution:
+
+`
+Portions of this software are licensed under the Rubisco Public License (RPL).
+`
+
+You may place this attribution in the copyright notice or elsewhere in the modified Software or
+derivative works.
+
+5. Patent Rights
+
+If you obtain patents related to the Software or any modifications or derivative works, you must
+either:
+
+Grant a royalty-free license to use the patents to all users of the Software, or
+
+Provide a reasonable and non-discriminatory license to use the patents to all users of the Software.
+
+
+6. Distribution
+
+You may distribute the Software or any modified Software or derivative works in either Source Code
+or Object Code form, provided that you:
+
+Include a copy of this RPL with all distributions of the Software.
+
+Ensure that any modified Software or derivative works are distributed under the same terms and conditions
+as this RPL.
+
+
+7. No Warranty
+
+The Software is provided "as is" without any warranty, express or implied. The copyright holder disclaims
+all warranties, including any implied warranties of merchantability, fitness for a particular purpose,
+and non-infringement.
+
+8. Limitation of Liability
+
+In no event shall the copyright holder be liable for any direct, indirect, incidental, special, exemplary,
+or consequential damages (including, but not limited to, loss of profits, business interruption, or loss
+of data) arising out of the use or inability to use the Software, even if the copyright holder has been
+advised of the possibility of such damages.
+
+9. Termination
+
+This RPL shall terminate automatically if you fail to comply with any of its terms and conditions. Upon
+termination, all rights granted to you under this RPL shall immediately cease.
+
+10. Governing Law
+
+This RPL shall be governed by and construed in accordance with the laws of the jurisdiction in which
+the Software is primarily developed.
+
+11. Contact
+
+For any questions or requests regarding the RPL, please contact:
+
+Rubisco Team
+<rubiscosearch@gmail.com>
+
+12. Version
+
+This is version 1.0 of the Rubisco Public License.
